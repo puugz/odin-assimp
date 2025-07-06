@@ -1,0 +1,5 @@
+source/build/
+source/cmake-modules/
+
+*.obj
+*.exe
